@@ -1,0 +1,5 @@
+label,entities,obs,years_min,years_max,years_span
+Full sample,1235,20995,2008,2024,17
+Hotels only,306,5202,2008,2024,17
+COVID 2020–2021,1235,2470,2020,2021,2
+Non-COVID 2008–2019 & 2022–2024,1235,18525,2008,2024,17

@@ -1,0 +1,2 @@
+variable,n,coverage_pct,mean,std,min,q1,median,q3,max
+Leverage(Debt/Assets),14918,71.055,0.7269,12.116,-0.0341,0.1101,0.2751,0.4602,797.6644

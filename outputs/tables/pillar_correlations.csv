@@ -1,0 +1,5 @@
+,ESG_Score,Environmental_Score,Social_Score,Governance_Score
+ESG_Score,1.0,0.86,0.92,0.67
+Environmental_Score,0.86,1.0,0.75,0.37
+Social_Score,0.92,0.75,1.0,0.41
+Governance_Score,0.67,0.37,0.41,1.0

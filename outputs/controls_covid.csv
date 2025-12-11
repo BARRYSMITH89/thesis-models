@@ -1,0 +1,7 @@
+panel,outcome,lag,entities,obs_used,clustered_SEs,coef_Employees,p_Employees,coef_Debt,p_Debt,note
+COVID 2020–2021,ROA,0,218,401,entity+year,2.0087728230994735e-05,0.08313406957369951,-2.8611956873169833e-10,0.001158377928924148,
+COVID 2020–2021,NIAT,0,218,401,entity+year,-3050.3584247962604,0.6369676729615155,-0.9773527090381522,2.2889579120999315e-10,
+COVID 2020–2021,ROA,1,191,191,entity+year,,,,,skipped: insufficient panel
+COVID 2020–2021,NIAT,1,191,191,entity+year,,,,,skipped: insufficient panel
+COVID 2020–2021,ROA,2,0,0,entity+year,,,,,skipped: insufficient panel
+COVID 2020–2021,NIAT,2,0,0,entity+year,,,,,skipped: insufficient panel

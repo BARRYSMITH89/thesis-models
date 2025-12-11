@@ -1,0 +1,4 @@
+n,mean,std,min,q1,median,q3,max,variable
+1927,44.59,27.07,0.09,20.88,43.92,68.83,97.59,Environmental_Score
+2266,45.8,24.14,0.48,26.37,44.69,64.45,97.25,Social_Score
+2266,45.62,22.06,0.74,27.76,45.49,63.29,96.66,Governance_Score
