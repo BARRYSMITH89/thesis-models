@@ -5,7 +5,8 @@
 
 ## Purpose
 
-This folder contains the code, data and outputs required to replicate the econometric analyses used in the thesis:
+This folder contains the code and outputs used to run the econometric analyses in my thesis.
+The underlying Refinitiv data are proprietary and therefore not included in this public repository:
 
 “Corporate Social Responsibility and Financial Performance within the Global Hospitality Industry and Hotel Sector”.
 
